@@ -1,0 +1,15 @@
+{
+  "name": "guessthecard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.html",
+  "dependencies": {
+    "jquery": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tamer Al-kassimi <tamer@tamecrea.es>",
+  "license": "ISC"
+}
